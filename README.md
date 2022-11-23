@@ -1,1 +1,1 @@
-# .github
+# the Ada Coelaboration Initiative
