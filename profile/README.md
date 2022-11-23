@@ -1,4 +1,4 @@
-## the Ada CoElaboration Initiative 
+## the Ada Coelaboration Initiative 
 
 <!--
 
