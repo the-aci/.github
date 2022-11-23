@@ -1,1 +1,0 @@
-# the Ada Coelaboration Initiative
