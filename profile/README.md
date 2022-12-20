@@ -1,7 +1,7 @@
 The Ada Collaboration Initiative 
 --
 
-The purpose of this organisation is to support Ada coders collaborat.  
+The purpose of this organisation is to help collaboration on Ada projects.  
 The means is to offer a platform for blogs etc.  
 Pull Requests are welcomed with thanks !
 
