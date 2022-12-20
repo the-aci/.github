@@ -1,7 +1,7 @@
-The Ada Co-elaboration Initiative 
+The Ada Collaboration Initiative 
 --
 
-The purpose of this project is to make Ada coders cooperate.  
+The purpose of this organisation is to support Ada coders collaborat.  
 The means is to offer a platform for blogs etc.  
 Pull Requests are welcomed with thanks !
 
