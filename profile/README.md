@@ -2,9 +2,7 @@ The Ada Collaboration Initiative
 --
 
 The purpose of this organisation is to help collaboration on Ada projects.  
-The means is to offer a platform for blogs etc.  
-Pull Requests are welcomed with thanks !
-
+The means is to offer a platform for blogs etc.
 <!--
 
 **Here are some ideas to get you started:**
